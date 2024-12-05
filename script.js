@@ -24,7 +24,7 @@ function clickYes() {
     qn.style.display = "none";
 
     body.style.backgroundColor = "#8fb5d6";
-    msg.innerHTML = "I knew you'd say YES! ❤️";
+    msg.innerHTML = "I knew you'd say YES my Mahdiat! ❤️";
     msg.style.fontSize = "5rem";
     msg.style.transition = "color 0.5s";
 
