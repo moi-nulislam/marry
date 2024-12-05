@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(208, 84%, 90%);
+}
+
+.msg {
+    font-family: cursive;
+}
+
+.qn {
+    font-size: 5rem;
+    font-family: cursive;
+}
+
+.yes {
+    font-size: 2.5rem;
+    float: right;
+}
+
+.yes:hover {
+    background-color: #1d8b1d;
+}
+
+.no {
+    font-size: 2.5rem;
+}
+.no:hover {
+    background-color: #dd2b2b;
+}
